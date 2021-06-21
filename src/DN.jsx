@@ -85,7 +85,9 @@ class DN extends React.Component{
                    "https://drive.google.com/file/d/10rIIfj0JUyLg40QOz6VAlONfVMy_SkaU/view?usp=sharing",
                    "https://drive.google.com/file/d/10rguzSUtTWhT5ZcwxDksYMiJ74XFOJXy/view?usp=sharing",
                    "https://drive.google.com/file/d/15pVxkyRkrGxji8NguUS3hygCbNG_40UD/view?usp=drivesdk",
-                   "https://drive.google.com/file/d/15OKkXb4gF4FBtTFkHL_hL9N98y9B7qlH/view?usp=sharing"],
+                   "https://drive.google.com/file/d/15OKkXb4gF4FBtTFkHL_hL9N98y9B7qlH/view?usp=sharing",
+                   "https://drive.google.com/folderview?id=1G63j7L-3d-03S9NN-mOlcXq_1blGo0DO",
+                   "https://drive.google.com/folderview?id=1HbAfSlxHBLG3oL4tAghgXp26EkymwzQF"],
             names:["DC Pandey Mechanics Volume 1",
                    "DC Pandey Mechanics Volume 2",
                    "DC Pandey Waves and Thermodynamics Volume 3",
@@ -100,7 +102,9 @@ class DN extends React.Component{
                    "Problems in General Physics I.E. Irodov",
                    "Solution to I.E. Irodov",
                    "Nootan Physics class 12th",
-                   "Ncert Physics Exemplar Problems"]
+                   "Ncert Physics Exemplar Problems",
+                   "Ncert TextBook Class 11",
+                   "Ncert TextBook Class 12"]
           },
           comp:{
             links:["https://drive.google.com/file/d/13zka_gumPfuQlVeIGwv2n_zQ2zbptEiR/view?usp=sharing",
