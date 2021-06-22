@@ -10,7 +10,7 @@ if(msg.length===0 || name.length===0){
 else{
     msg="feedback from "+name+":\n"+msg;
     var xhttp=new XMLHttpRequest();
-    xhttp.open("GET",encodeURI("https://api.telegram.org/bot1615595580:AAEoUHfmuuMukkWfRib3zTa7OVCGMYOtmk8/sendMessage?chat_id=-588829059&text="+msg),true);
+    xhttp.open("GET",encodeURI("https://api.telegram.org/bot1615595580:AAEoUHfmuuMukkWfRib3zTa7OVCGMYOtmk8/sendMessage?chat_id=-1001262147694&text="+msg),true);
     xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xhttp.send();
   document.getElementsByClassName("name")[0].value="";
