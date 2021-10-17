@@ -44,9 +44,7 @@ class App extends React.Component{
       <i className="fab fa-instagram" info="instagram" onClick={this.loadInsta}></i>
       <i class="fas fa-envelope" info="gmail" onClick={this.loadGmail}></i>
       </div>
-      <div className="disclaimer">DISCLAIMER! All or most of the books in the website have been obtained 
-      from various different sources from the internet. If you feel that you have a copyright over any of 
-      the books and want them to be removed then you can mail us at cubebooks.netlify@gmail.com</div>
+      <div className="disclaimer"> Note: Hello mates! We are facing some issues with the PDFs uploaded on the website. It's our request to you to either mail us or text us on our Instagram handle with the book name you seek.  </div>
       </div>)
     }
 }
